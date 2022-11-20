@@ -1,0 +1,25 @@
+.Pending-grid {
+  text-align: center;
+  background-color: #43ED3F;
+  width: 1300px;
+  margin: 30px;
+  min-height: 800px;
+  border: 2px;
+  border-style: solid;
+  border-color: black;
+}
+
+.Counter {
+  margin: 50px;
+  height: 800;
+}
+
+.Pending-grid-item {
+  height: 300px;
+  width: 300px;
+  background-color: #ffffff;
+  margin: auto;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+}
