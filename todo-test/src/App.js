@@ -58,10 +58,6 @@ class PendingApp extends React.Component {
         </div>
       </div>);
   }
-
-  getActivePendings() {
-    return this.state.pendings.filter(p => p.currentState === PendingStates.Active);
-  }
 }
 
 class ActivePendingsGrid extends React.Component {
